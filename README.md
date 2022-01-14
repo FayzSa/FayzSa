@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Hey there, I'm Fayz.🔭 I’m currently student in Master Degree - Big Data And Cloud Computing, I'm a software developer,🌱 I’m currently learning Spring Boot and Angular,. Check out my portfolio fayzsabir.me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 <!--
 **FayzSa/FayzSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
