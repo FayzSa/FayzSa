@@ -1,3 +1,3 @@
 - Hey there, I'm Fayz 😄
-- 🔭 I’m currently Test Automation Engineer at  @SQLI . 
+- 🔭 I’m currently Test Automation Engineer Intern at  @SQLI . 
 - Check out my portfolio fayzsabir.me
