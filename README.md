@@ -1,4 +1,3 @@
 - Hey there, I'm Fayz 😄
-- 🔭 I’m currently student in Master Degree - Big Data And Cloud Computing . 
-- 🌱 I’m currently learning Spring Boot and Angular.
+- 🔭 I’m currently Test Automation Engineer at  @SQLI . 
 - Check out my portfolio fayzsabir.me
