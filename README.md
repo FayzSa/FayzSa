@@ -1,3 +1,2 @@
 - Hey there, I'm Fayz 😄
-- 🔭 I’m currently Automation Engineer  @SQLI . 
-- Check out my portfolio fayz.me
+- 🔭 I’m currently Software Engineer  @SQLI . 
