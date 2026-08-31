@@ -185,9 +185,18 @@ def collect():
         repos = user["repositories"]
         for node in repos["nodes"]:
             stars += node["stargazerCount"]
-            for edge in node["languages"]["edges"]:
+            edges = node["languages"]["edges"]
+            # Weight each repository equally rather than by raw bytes. Byte
+            # counts let one asset-heavy project (vendored HTML/CSS, generated
+            # templates) swallow the whole chart, which says nothing about what
+            # the work actually is. Every repo contributes a total of 1.0,
+            # split across its own languages.
+            repo_bytes = sum(e["size"] for e in edges)
+            if not repo_bytes:
+                continue
+            for edge in edges:
                 name = edge["node"]["name"]
-                langs[name] = langs.get(name, 0) + edge["size"]
+                langs[name] = langs.get(name, 0) + edge["size"] / repo_bytes
                 colors[name] = edge["node"]["color"] or RING
         if not repos["pageInfo"]["hasNextPage"]:
             break

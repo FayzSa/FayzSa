@@ -57,7 +57,7 @@ I build the force: backends that hold under load, and agents that act without be
 
 <br/><br/>
 
-<img src="./assets/langs.svg" alt="Top languages by bytes written" width="49%" />
+<img src="./assets/langs.svg" alt="Language mix across repositories" width="49%" />
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
