@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="205" viewBox="0 0 470 205" role="img" aria-label="連撃 · Unbroken Chain">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7B5EA7"/><stop offset="55%" stop-color="#2B1B3D"/><stop offset="100%" stop-color="#E01E37"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#B06CFF" stop-opacity=".22"/><stop offset="100%" stop-color="#B06CFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x=".75" y=".75" width="468.5" height="203.5" rx="10" fill="#0B0B10" stroke="url(#edge)" stroke-width="1.5"/>
+  <circle cx="428" cy="34" r="60" fill="url(#halo)"/>
+  <text x="24" y="36" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Meiryo,monospace" font-size="15" font-weight="700" fill="#B06CFF">連撃 · Unbroken Chain</text>
+  <rect x="24" y="46" width="422" height="1" fill="#2B1B3D"/>
+  <circle cx="235" cy="118" r="34" fill="#7B5EA7" fill-opacity=".10"/>
+  <circle cx="235" cy="118" r="34.0" fill="none" stroke="#B06CFF" stroke-opacity="0.85" stroke-width="1.6"/>
+  <circle cx="235" cy="118" r="26.6" fill="none" stroke="#B06CFF" stroke-opacity="0.71" stroke-width="1.6"/>
+  <circle cx="235" cy="118" r="19.2" fill="none" stroke="#B06CFF" stroke-opacity="0.57" stroke-width="1.6"/>
+  <circle cx="235" cy="118" r="11.8" fill="none" stroke="#B06CFF" stroke-opacity="0.43" stroke-width="1.6"/>
+  <circle cx="235" cy="118" r="3.8" fill="#EDEDF2"/>
+  <text x="235" y="179" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',Meiryo,monospace" font-size="11.5" fill="#A8A8B8">gathering chakra — refreshes on the next scheduled run</text>
+</svg>

@@ -55,6 +55,10 @@ I build the force: backends that hold under load, and agents that act without be
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,git,githubactions,linux&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Kubernetes, Git, GitHub Actions, Linux" />
 
+<br/><br/>
+
+<img src="./assets/langs.svg" alt="Language mix across repositories" width="49%" />
+
 <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
 
@@ -88,18 +92,16 @@ I build the force: backends that hold under load, and agents that act without be
 
 <div align="center">
 
-<img src="./assets/stats.svg" alt="GitHub statistics" height="205" />
-<img src="https://streak-stats.demolab.com?user=FayzSa&background=0B0B10&border=2B1B3D&stroke=2B1B3D&ring=B06CFF&fire=E01E37&currStreakLabel=B06CFF&sideLabels=A8A8B8&currStreakNum=EDEDF2&sideNums=EDEDF2&dates=6E6E7E&border_radius=10" alt="Contribution streak" height="205" />
-
-<br/>
-
-<img src="./assets/langs.svg" alt="Top languages" width="470" />
+<img src="./assets/stats.svg" alt="GitHub statistics" width="49%" />
+<img src="./assets/streak.svg" alt="Contribution streak" width="49%" />
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/B06CFF/FayzSa" alt="Contribution calendar" width="94%" />
+<img src="./assets/calendar.svg" alt="Contribution calendar for the past year" width="99%" />
 
-<sub><i>The stat cards above are forged in this repo by a scheduled workflow — no third-party service to go dark on me.</i></sub>
+<br/>
+
+<sub><i>Every card on this page is forged inside this repo by a scheduled workflow — no third-party stats service to go dark or get dropped by the image proxy.</i></sub>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 </div>
